@@ -391,7 +391,7 @@ No SQL Server installation is required because the application uses SQLite.
 # Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/ahkhtejo/TodoApi.git
 cd ToDos
 ```
 
