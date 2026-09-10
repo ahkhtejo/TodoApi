@@ -1,0 +1,64 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio
+.vs/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Test results
+TestResults/
+*.trx
+
+# Logs
+*.log
+
+# ASP.NET Core
+wwwroot/lib/
+
+# Entity Framework
+*.db
+*.db-shm
+*.db-wal
+
+# Local configuration / secrets
+appsettings.Local.json
+appsettings.Development.json
+
+# Environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Publish
+publish/
+*.PublishSettings
+
+# Azure
+.azure/
+
+# Coverage
+coverage/
+coverage*.xml
+
+# Temporary files
+*.tmp
+*.temp
